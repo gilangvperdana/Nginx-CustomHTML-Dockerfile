@@ -2,4 +2,4 @@
 
 Build image : $ docker build -t imagename .
 
-Run image : $ docker containe run -d -p 80:80 imagename
+Run image : $ docker container run -d -p 80:80 imagename
